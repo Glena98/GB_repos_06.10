@@ -7,3 +7,6 @@
 Чтобы создать ветку, используется:
 
 - git branch branch_name 
+Чтобы перейти к другой ветке, мы используем:
+
+* git checkout branch_name
