@@ -12,3 +12,6 @@
 
 * git checkout branch_name
 
+Чтобы удалить ветку, используем команду:
+
+* git branch -d branch_name
